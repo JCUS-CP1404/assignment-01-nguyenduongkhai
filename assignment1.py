@@ -1,8 +1,8 @@
 """
 Replace the contents of this module docstring with your own details
-Name:
+Name:Nguyen Duong Khai
 Date started:
-GitHub URL:
+GitHub URL:https://github.com/JCUS-CP1404/assignment-01-nguyenduongkhai
 """
 
 
